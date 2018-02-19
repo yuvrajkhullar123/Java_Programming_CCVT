@@ -3,7 +3,7 @@ package com.rt.anonomousclass;
 public class TestClass {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// yuvraj khullar
 
 		System.out.println("Hello");
 		
