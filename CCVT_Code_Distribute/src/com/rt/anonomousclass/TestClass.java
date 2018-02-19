@@ -3,8 +3,7 @@ package com.rt.anonomousclass;
 public class TestClass {
 
 	public static void main(String[] args) {
-		// yuvraj khullar
-
+		// yuvraj
 		System.out.println("Hello");
 		
 		Greeting obj=new Greeting(){
